@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>EdVid AI – AI-Powered Educational Video Generation</title>
+  <style>
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+      margin: 0; padding: 0; background-color: #0f172a; color: #f8fafc;
+      display: flex; flex-direction: column; align-items: center; justify-content: center; min-height: 100vh; text-align: center;
+    }
+    .container { max-width: 800px; padding: 40px 20px; }
+    .badge { background-color: #1e293b; color: #38bdf8; padding: 6px 16px; border-radius: 20px; font-size: 0.9rem; border: 1px solid #334155; margin-bottom: 20px; display: inline-block; }
+    h1 { font-size: 2.5rem; color: #38bdf8; margin-bottom: 15px; }
+    p { font-size: 1.2rem; color: #94a3b8; line-height: 1.6; margin-bottom: 30px; }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <div class="badge">Powered by Claude 3.5 Sonnet</div>
+    <h1>Transform Educational Content with EdVid AI</h1>
+    <p>EdVid AI leverages advanced Claude models to create engaging, automated educational videos from raw text and curriculum materials.</p>
+  </div>
+</body>
+</html>
